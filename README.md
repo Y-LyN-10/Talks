@@ -1,4 +1,0 @@
-IArt
-====
-
-My personal projects
